@@ -14,7 +14,7 @@ export function AccountMenu() {
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end" className="w-56">
         <DropdownMenuLabel>
-          <span>Gustavo</span>
+          <p>Gustavo</p>
           <span className="text-xs font-normal text-muted-foreground">gustavo@example.com</span>
         </DropdownMenuLabel>
         <DropdownMenuSeparator/>
